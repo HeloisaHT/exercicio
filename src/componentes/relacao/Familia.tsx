@@ -10,6 +10,6 @@ export default (props: any) =>{
     <Text style={padrao.txtG}>Membros da Familia</Text>
     {props.children}
     </>
-    
+     
     )
 }

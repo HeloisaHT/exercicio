@@ -11,6 +11,14 @@ export default StyleSheet.create({
     },
     txtG:{
         fontSize:32
+    },
+    input:{
+        height:40,
+        margin: 12,
+        borderWidth: 3,
+        backgroundColor: '#AA6DA3',
+        borderColor: '#820932',
+        color: '#FFEECF',
     }
     
 })
